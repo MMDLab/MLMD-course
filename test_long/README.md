@@ -4,6 +4,7 @@ sort: 2
 
 # Темы занятий
 
+<!--
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
 
@@ -11,3 +12,6 @@ sort: 2
 ```
 
 {% include list.liquid all=true %}
+-->
+
+Comment out test
