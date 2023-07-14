@@ -4,12 +4,21 @@ sort: 1
 
 # План и структура занятий
 
-Table test:
+Table test 1:
+
 | Tables   |      Are      |  Cool |
 |----------|:-------------:|------:|
 | col 1 is |  left-aligned | $1600 |
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
+
+Test 2:
+
+| What    | Follows  |
+| ------- | -------- |
+| A table | A header |
+| A table | A header |
+| A table | A header |
 
 Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines (unless hovered over).
 
