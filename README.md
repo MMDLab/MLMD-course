@@ -1,7 +1,7 @@
 ---
-![kandi nsky-download-1689611809053](assets/kandi%20nsky-download-1689611809053.png)
+![1](assets/1.png)
 
-# Машинное обучение для дизайна новых материалов
+# Machine learning for new materials design
 <!--  <> (# This web-site is based on https://github.com/rundocs/jekyll-rtd-theme) -->
 
 <!-- ( ![CI](https://github.com/rundocs/jekyll-rtd-theme/workflows/CI/badge.svg?branch=develop) )
