@@ -4,7 +4,7 @@ sort: 2
 
 # Used programs and tools
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1SYd50KT19RFCfZBzXI8ujp802oBFHwu8/view?usp=share_link)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SYd50KT19RFCfZBzXI8ujp802oBFHwu8)
 
 Table test 1:
 
