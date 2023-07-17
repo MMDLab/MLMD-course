@@ -2,5 +2,5 @@
 sort: 2
 ---
 
-# Темы занятий
+# Topics
 {% include list.liquid all=true %}

@@ -1,4 +1,3 @@
----
 ![1](assets/1.png)
 
 # Machine learning for new materials design
