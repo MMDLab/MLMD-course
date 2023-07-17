@@ -4,6 +4,8 @@ sort: 2
 
 # Темы занятий
 
+<div class="meta_for_parser tablespecs" style="visibility:hidden">
+  
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
 
@@ -11,3 +13,5 @@ sort: 2
 ```
 
 {% include list.liquid all=true %}
+
+</div>
