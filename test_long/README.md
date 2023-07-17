@@ -6,12 +6,12 @@ sort: 2
 
 <div class="meta_for_parser tablespecs" style="visibility:hidden">
   
-```
-{% raw %}{% include list.liquid all=true %}{% endraw %}
-
-{% include list.liquid all=true %}
-```
-
-{% include list.liquid all=true %}
+  ```
+  {% raw %}{% include list.liquid all=true %}{% endraw %}
+  
+  {% include list.liquid all=true %}
+  ```
+  
+  {% include list.liquid all=true %}
 
 </div>
