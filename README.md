@@ -1,3 +1,6 @@
+---
+![kandi nsky-download-1689611809053](assets/kandi%20nsky-download-1689611809053.png)
+
 # Машинное обучение для дизайна новых материалов
 <!--  <> (# This web-site is based on https://github.com/rundocs/jekyll-rtd-theme) -->
 
