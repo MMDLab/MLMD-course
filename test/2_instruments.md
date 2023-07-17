@@ -4,7 +4,7 @@ sort: 2
 
 # Used programs and tools
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MMDLab/MLMD-course/blob/main/notebooks/P1_PBC_and_MP_basics.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMDLab/MLMD-course/blob/main/notebooks/P1_PBC_and_MP_basics.ipynb)
 
 Table test 1:
 
