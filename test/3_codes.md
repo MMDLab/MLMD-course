@@ -1,5 +1,5 @@
 ---
-sort: 4
+sort: 3
 ---
 
 # Code Blocks
@@ -32,4 +32,10 @@ sort: 4
     }
   }
 }
+```
+
+```python
+s = 0
+for i in range(5):
+    s += i
 ```

@@ -1,5 +1,5 @@
 ---
-sort: 11
+sort: 10
 ---
 
 # Mathjax Test
@@ -24,3 +24,7 @@ $$
 ```note
 For documentation, see: https://kramdown.gettalong.org/syntax.html#math-blocks
 ```
+
+Or simple Markdown LaTeX:
+
+$x = \frac{1}{y} \cdot \frac{\partial x}{\partial y}$
