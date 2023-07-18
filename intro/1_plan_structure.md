@@ -28,7 +28,9 @@ sort: 1
 ### Libraries
 - [Pymatgen](https://pymatgen.org)
 - [Google Colab](https://colab.research.google.com)
-- ![Google Colab](https://ssl.gstatic.com/colaboratory-static/common/957d142630ea5115f490f827d4e6f524/img/favicon.ico) [Google Colab](https://colab.research.google.com)
+- ![Colab](assets/colab_icon.png)[Google Colab](https://colab.research.google.com)
+- 1
+
 
 ### External utilities
 - [VESTA](https://jp-minerals.org/vesta/en/)
