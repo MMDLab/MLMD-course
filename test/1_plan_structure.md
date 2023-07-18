@@ -27,7 +27,8 @@ sort: 1
 ### Libraries
 - [Pymatgen](https://pymatgen.org)
 - [Google Colab](https://colab.research.google.com)
+- <img align="left" width="16" height="16" src="https://ssl.gstatic.com/colaboratory-static/common/957d142630ea5115f490f827d4e6f524/img/favicon.ico">[Google Colab](https://colab.research.google.com)
 
 ### External utilities
 - [VESTA](https://jp-minerals.org/vesta/en/)
-- <img align="left" width="16" height="16" src="https://jp-minerals.org/vesta/img/vesta-icon.png" alt="Resume application project app icon">[VESTA](https://jp-minerals.org/vesta/en/)
+- <img align="left" width="16" height="16" src="https://jp-minerals.org/vesta/img/vesta-icon.png"> [VESTA](https://jp-minerals.org/vesta/en/)
