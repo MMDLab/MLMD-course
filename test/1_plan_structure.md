@@ -4,6 +4,7 @@ sort: 1
 
 # Syllabus
 
+## Topics and assignments
 | Topic   | Description | Type     | Hours    |
 | ------- | -------- | -------- | -------- |
 | **Introduction** | - Historical aspects of a new materials design <br> - Design of new materials as an applied area of big data analysis <br> - Basics of descriptors <br> - Practical examples of a data-driven approaches for the new materials design |*Lect* | 4 |
@@ -21,8 +22,12 @@ sort: 1
 | <span style="color:green"> Practical work 3 </span> | | *A 3* | - |
 | <span style="color:green"> Home work 3 </span> | | *A 4* | - |
 
-# Tools and libraries
+## Tools and libraries
 
+### Libraries
 - [Pymatgen](https://pymatgen.org)
 - [Google Colab](https://colab.research.google.com)
-- 
+
+### External utilities
+- [VESTA](https://jp-minerals.org/vesta/en/)
+- <img align="left" width="32" height="32" src="https://jp-minerals.org/vesta/img/vesta-icon.png" alt="Resume application project app icon">
