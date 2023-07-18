@@ -26,6 +26,7 @@ sort: 1
 | <span style="color:green"> Home work 3 </span> | | *A 4* | - |
 
 ### Part 2
+
 | Topic   | Description | Type     | Hours    |
 | ------- | -------- | -------- | -------- |
 | **Introduction** | - Historical aspects of a new materials design <br> - Design of new materials as an applied area of big data analysis <br> - Basics of descriptors <br> - Practical examples of a data-driven approaches for the new materials design |*Lect* | 4 |
