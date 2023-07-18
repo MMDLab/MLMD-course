@@ -30,4 +30,4 @@ sort: 1
 
 ### External utilities
 - [VESTA](https://jp-minerals.org/vesta/en/)
-- <img align="left" width="32" height="32" src="https://jp-minerals.org/vesta/img/vesta-icon.png" alt="Resume application project app icon">
+- <img align="left" width="16" height="16" src="https://jp-minerals.org/vesta/img/vesta-icon.png" alt="Resume application project app icon">[VESTA](https://jp-minerals.org/vesta/en/)
