@@ -20,3 +20,9 @@ sort: 1
 | ?? | - ?? <br> - ?? </span> | *Pract* | 2 |
 | <span style="color:green"> Practical work 3 </span> | | *A 3* | - |
 | <span style="color:green"> Home work 3 </span> | | *A 4* | - |
+
+# Tools and libraries
+
+- [Pymatgen](https://pymatgen.org)
+- [Google Colab](https://colab.research.google.com)
+- 
