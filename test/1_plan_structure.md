@@ -33,3 +33,4 @@ sort: 1
 ### External utilities
 - [VESTA](https://jp-minerals.org/vesta/en/)
 - [VESTA](https://jp-minerals.org/vesta/en/)<img align="right" width="16" height="16" src="https://jp-minerals.org/vesta/img/vesta-icon.png">
+- ![VESTA](https://jp-minerals.org/vesta/img/vesta-icon.png)
