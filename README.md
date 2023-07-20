@@ -1,4 +1,4 @@
-![1](assets/images/1.png)
+![1](assets/images/logo.png)
 
 # Machine learning for new materials design
 <!--  <> (# This web-site is based on https://github.com/rundocs/jekyll-rtd-theme) -->

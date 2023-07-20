@@ -8,6 +8,12 @@ sort: 1
 - Introductory part, includes a description of the subject area
 - Core part describing various cases and methods
 
+*The practical part of the course includes:*
+- 3 practical works of the *1st* part
+- 3 individual works of the *1st* part
+- 3 individual works of the *2nd* part
+- Implementation of the final project on the chosen topic
+
 ## Tools and libraries
 
 ### Libraries
@@ -15,6 +21,12 @@ sort: 1
 - [Pymatgen](https://pymatgen.org)
 - [Pandas](https://pandas.pydata.org/docs/reference/index.html)
 - [Numpy](https://numpy.org/doc/stable/reference/index.html)
+- [Matplotlib](https://matplotlib.org/)
+- [Sklearn](https://www.sklearn.org/)
+
+```tip
+Pay attention to `Pymatgen`. It is not preinstalled in `Colab`. Installation at each point in time may take 2-5 minutes. The best solution is to install `Jupyter` and set up the environment to work in-place.
+```
 
 ### Web tools
 
@@ -25,4 +37,5 @@ sort: 1
 - ![VESTA](https://jp-minerals.org/vesta/img/vesta-icon.png) [VESTA](https://jp-minerals.org/vesta/en/)
 
 ### Additional
-- [Conda](https://docs.conda.io/en/latest/)
+- ![Conda](assets/conda-16x16.png)   [Conda](https://docs.conda.io/en/latest/)
+- ![Jupyter](assets/jupyter-16x16.png)  [Jupyter](https://jupyter.org)
