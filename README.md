@@ -3,10 +3,7 @@
 # Machine learning for new materials design
 <!--  <> (# This web-site is based on https://github.com/rundocs/jekyll-rtd-theme) -->
 
-<!-- ( ![CI](https://github.com/rundocs/jekyll-rtd-theme/workflows/CI/badge.svg?branch=develop) )
-[//]: # ( ![jsDelivr](https://data.jsdelivr.com/v1/package/gh/rundocs/jekyll-rtd-theme/badge) ) -->
-
-Just another documentation theme compatible with GitHub Pages
+An introductory course on machine learning for predicting the properties of solids.
 
 ## What it does?
 

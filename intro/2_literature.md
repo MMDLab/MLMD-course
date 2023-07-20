@@ -25,6 +25,8 @@ sort: 2
 
 ## Books
 
+- `Coming soon`
+
 ## Web-sites
 
 - [Deep Graph Library - DGL](https://www.google.com/search?client=safari&rls=en&q=Deep+Graph+library&ie=UTF-8&oe=UTF-8)
