@@ -11,9 +11,18 @@ sort: 1
 ## Tools and libraries
 
 ### Libraries
+
 - [Pymatgen](https://pymatgen.org)
+- [Pandas](https://pandas.pydata.org/docs/reference/index.html)
+- [Numpy](https://numpy.org/doc/stable/reference/index.html)
+
+### Web tools
+
 - ![Colab](assets/colab_icon.png) [Google Colab](https://colab.research.google.com)
 
 ### External utilities
-- [VESTA](https://jp-minerals.org/vesta/en/)
+
 - ![VESTA](https://jp-minerals.org/vesta/img/vesta-icon.png) [VESTA](https://jp-minerals.org/vesta/en/)
+
+### Additional
+- [Conda](https://docs.conda.io/en/latest/)
