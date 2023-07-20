@@ -22,7 +22,11 @@ sort: 1
 - [Pandas](https://pandas.pydata.org/docs/reference/index.html)
 - [Numpy](https://numpy.org/doc/stable/reference/index.html)
 - [Matplotlib](https://matplotlib.org/)
-- [Sklearn](https://www.sklearn.org/)
+- [Sci-Kit Learn](https://www.sklearn.org/)
+- [Seaborn](https://seaborn.pydata.org/)
+- [TPOT](http://epistasislab.github.io/tpot/)
+- [PyTorch](https://pytorch.org/)
+- [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/)
 
 ```tip
 Pay attention to `Pymatgen`. It is not preinstalled in `Colab`. Installation at each point in time may take 2-5 minutes. The best solution is to install `Jupyter` and set up the environment to work in-place.
