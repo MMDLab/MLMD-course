@@ -19,6 +19,7 @@ sort: 1
 ### Libraries
 
 - [Pymatgen](https://pymatgen.org)
+- [Matminer](https://hackingmaterials.lbl.gov/matminer/)
 - [Pandas](https://pandas.pydata.org/docs/reference/index.html)
 - [Numpy](https://numpy.org/doc/stable/reference/index.html)
 - [Matplotlib](https://matplotlib.org/)
