@@ -7,10 +7,7 @@ An introductory course on machine learning for predicting the properties of soli
 
 ## What it does?
 
-This theme is inspired by [sphinx-rtd-theme](https://github.com/readthedocs/sphinx_rtd_theme) and refactored with:
-
-- [@primer/css](https://github.com/primer/css)
-- [github-pages](https://github.com/github/pages-gem) ([dependency versions](https://pages.github.com/versions/))
+This resource is more of a reference tool. It will help you navigate the methods that can be used to build machine learning-based models to predict material properties.
 
 ## Quick start
 
