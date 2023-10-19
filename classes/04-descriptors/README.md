@@ -1,3 +1,0 @@
-# Descriptors
-
-source: `{{ page.path }}`
