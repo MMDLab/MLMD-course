@@ -2,6 +2,6 @@
 sort: 2
 ---
 
-# file2
+# Evolution of views
 
 source: `{{ page.path }}`
