@@ -1,3 +1,3 @@
 # General information
 
-source: `{{ page.path }}`
+`Coming soon`

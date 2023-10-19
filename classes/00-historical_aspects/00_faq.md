@@ -4,28 +4,20 @@ sort: 1
 
 # New materials design
 
-source: `{{ page.path }}`
+New materials design via theoretical modeling is a process that involves using computational and theoretical approaches to predict and design materials with desired properties. Here are some key points about this process:
 
-New materials design refers to the process of creating and developing innovative materials with specific properties and characteristics. It involves designing materials that possess desired physical, chemical, and mechanical properties to meet various needs and applications. Here are some key points about new materials design:
+- **Focus on design and discovery**: The main goal of new materials design via theoretical modeling is to discover and design new materials with desired properties. This approach is different from traditional experimental methods, which often focus on improving existing materials or exploring academic curiosity.
 
-1. **Challenges**: Designing new materials introduces new challenges, from determining their physical characteristics to considering their cultural impact[1].
+- **Combination of theory and experiment**: Theoretical materials modeling is often combined with experimental validation to ensure the accuracy and reliability of the predicted properties and designs. This combination of theory and experiment helps to establish a strong structure-property relationship and enables the design of materials with novel properties.
 
-2. **Material Evolution**: The field of design is experiencing a material evolution, where designers are exploring new materials and processes to create sustainable and environmentally friendly solutions[2].
+- **Multiscale and multiparadigm simulations**: The development of new simulation frameworks, such as the Computational Materials Design Facility (CMDF), allows for multiscale and multiparadigm simulations of complex materials phenomena. This enables the integration of different length and time scales, as well as different simulation paradigms, such as quantum mechanics, reactive force fields, empirical force fields, and continuum descriptions of materials.
 
-3. **Restorative Design**: Restorative design aims to heal the relationship between nature and design by seeking natural alternatives to synthetic, non-biodegradable materials[2].
+- **Advances in computational methods and algorithms**: Recent advances in computational methods, algorithms, and informatics have contributed to the growth of new materials design via theoretical modeling. The widespread adoption of artificial intelligence and machine learning-based methods has opened up alternative avenues for materials design and development.
 
-4. **Material Design**: Material Design is an adaptable system of guidelines, components, and tools that support best practices in user interface design[3]. It is an open-source design system developed by Google.
+- **Applications in various fields**: Theoretical materials modeling has applications in various fields, such as energy, electronics, and healthcare. For example, it can be used to design new materials for energy storage, improve the efficiency of electronic devices, and develop new drug delivery systems.
 
-5. **Emerging Materials**: There are exciting new materials being developed by researchers and designers. Examples include graphene nanocoating, bio-based materials, and thermal-responsive materials[5].
-
-6. **Predicting Properties**: Scientists are working on methods to predict and design materials with specific properties. This involves understanding the behavior of atoms and their combinations to create materials with desired characteristics[6].
-
-Overall, new materials design involves pushing the boundaries of material science and exploring innovative solutions to meet the evolving needs of various industries and applications. It encompasses sustainability, functionality, and the pursuit of novel materials with unique properties.
-
-Citations:
-[1] https://link.springer.com/chapter/10.1007/978-3-030-86596-2_5
-[2] https://www.workdesign.com/2021/01/the-future-of-design-material-evolution/
-[3] https://m2.material.io/whats-new
-[4] https://m3.material.io
-[5] https://www.fastcompany.com/3065607/11-exciting-new-materials-designers-should-watch
-[6] https://www.sciencedaily.com/releases/2018/08/180822141046.htm
+Sources:
+- [L.-Q. Chen et al. Design and discovery of materials guided by theory and computation, Npj Computational Materials. 1 (2015) 1–2.](https://www.nature.com/articles/npjcompumats20157)
+- [G. Pilania et al. Recent advances in computational materials design: methods, applications, algorithms, and informatics, J. Mater. Sci. 57 (2022) 10471–10474.](https://link.springer.com/article/10.1007/s10853-022-07316-3)
+- [V. Singh et al. Recent trends in computational tools and data-driven modeling for advanced materials, Materials Advances. 3 (2022) 4069–4087.](https://pubs.rsc.org/en/content/articlehtml/2022/ma/d2ma00067a)
+- [Materials by Design from MIT](https://www.ll.mit.edu/r-d/projects/materials-design)

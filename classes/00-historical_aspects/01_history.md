@@ -4,8 +4,6 @@ sort: 2
 
 # Evolution of views
 
-source: `{{ page.path }}`
-
 ## History
 The history of theoretical material science can be traced back to the Age of Enlightenment, when researchers began using analytical thinking from chemistry, physics, and engineering to understand ancient observations in metallurgy and mineralogy[1]. Here are some key points in the history of theoretical material science:
 
