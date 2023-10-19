@@ -4,8 +4,6 @@ sort: 3
 
 # Main aspects of theoretical materials modeling
 
-source: `{{ page.path }}`
-
 Theoretical materials modeling is an interdisciplinary field that uses theoretical models and simulations to understand the structure and properties of materials. Here are some main aspects of theoretical materials modeling:
 
 - **Multiscale modeling**: Theoretical materials modeling involves modeling materials at different length and time scales, from the atomic to the macroscopic level. This requires the use of different modeling techniques, such as molecular dynamics, Monte Carlo simulations, and finite element analysis.
