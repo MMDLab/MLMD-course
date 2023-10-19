@@ -11,11 +11,14 @@ This resource is more of a reference tool. It will help you navigate the methods
 
 ## Quick start
 
-```yml
-remote_theme: rundocs/jekyll-rtd-theme
-```
+Initial requirements includes several specific python [libraries](https://mmdlab.github.io/MLMD-course/intro/1_plan_structure.html).
+To navigate it might be helpfull to use "Search docs" field.
 
-You can [generate](https://github.com/rundocs/starter-slim/generate) with the same files and folders from [rundocs/starter-slim](https://github.com/rundocs/starter-slim/)
+```tip
+To use the Materials Project data base, you need to register (login) on the [website](https://legacy.materialsproject.org/open) and get an API key:
+```
+![2](assets/images/Login_instruction.png)
+
 
 ## Usage
 
