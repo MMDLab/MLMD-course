@@ -4,7 +4,6 @@ sort: 2
 
 # Evolution of views
 
-## History
 The history of theoretical material science can be traced back to the Age of Enlightenment, when researchers began using analytical thinking from chemistry, physics, and engineering to understand ancient observations in metallurgy and mineralogy[1]. Here are some key points in the history of theoretical material science:
 
 - **Origins in ancient times**: Materials science originally emerged from the manufacture of ceramics and its derivative metallurgy, making it one of the oldest forms of engineering and applied science. Humanity had been using metals and alloys for several millennia before the development of material science as a formal discipline.
@@ -19,7 +18,7 @@ The history of theoretical material science can be traced back to the Age of Enl
 
 - **Recent advancements**: Materials science has continued to advance, with researchers now studying exotic forms of condensed matter and developing new physics theories to explain their behavior[6]. This field has also expanded to include the integration of materials into biological systems, the study of fluid flows and ensemble systems, and the characterization of materials using diffraction and wave mechanics.
 
-## Sources
+# Sources
 - [What is Material Science](https://en.wikipedia.org/wiki/Materials_science)
 - [History of Material Science](https://en.wikipedia.org/wiki/History_of_materials_science)
 - [WHAT IS A MATERIAL? WHAT IS MATERIALS SCIENCE?](https://ethos.lps.library.cmu.edu/article/id/40/)
