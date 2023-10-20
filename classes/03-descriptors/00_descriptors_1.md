@@ -1,6 +1,6 @@
 # What are descriptors
 
-```python
+```python3
 for i in l:
     print(i)
 ```
