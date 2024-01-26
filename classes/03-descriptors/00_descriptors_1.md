@@ -29,10 +29,8 @@ formula = 'Ni3Al'
 composition_as_dict = f2c(formula)
 print(composition_as_dict)
 ```
-
-```note
 `Output: {'Ni': 3.0, 'Al': 1.0}`
-```
+
 
 ```python
 def get_atomic_concentrations(formula: dict=None):
