@@ -1,4 +1,4 @@
-# What are descriptors
+# What are descriptors?
 
 ```note
 In materials science, descriptors are representations of the qualitative or quantitative composition, and/or structure of compounds or alloys, which play an important role in machine learning of materials data.
