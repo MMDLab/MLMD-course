@@ -26,5 +26,5 @@ There are two versions of the API available on the Materials Project website.
 ```
 
 ```tip
-https://docs.materialsproject.org/methodology/materials-methodology
+An extremely useful section of [web-site](https://docs.materialsproject.org/methodology/materials-methodology) describes the methodology for populating the database. Here you can find a lot of useful information.
 ```
