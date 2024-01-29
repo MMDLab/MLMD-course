@@ -18,3 +18,13 @@ To navigate it might be helpfull to use "Search docs" field.
 To use the Materials Project data base, you need to register (login) on the [website](https://legacy.materialsproject.org/open) and get an API key:
 ```
 ![2](assets/images/Login_instruction.png)
+
+```tip
+There are two versions of the API available on the Materials Project website. 
+- The first [Next Gene API](https://next-gen.materialsproject.org/api) is a version for developers. In the future, it will become the main one. 
+- And the second - [legacy API](https://docs.materialsproject.org/methodology/materials-methodology). This version is most stable and functional.
+```
+
+```tip
+https://docs.materialsproject.org/methodology/materials-methodology
+```
