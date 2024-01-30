@@ -47,6 +47,7 @@ sort: 2
 
 ## Courses
 
+- [Crystal structure](https://www.doitpoms.ac.uk/tlplib/crystallography3/index.php)
 - [Machine Learning with Graphs (open-source course, Standford - 2023)](https://web.stanford.edu/class/cs224w/)
 
 ## Lectures
