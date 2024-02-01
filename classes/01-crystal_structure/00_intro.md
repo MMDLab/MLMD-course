@@ -33,4 +33,4 @@ Crystals can have natural origins, forming through inorganic or organic processe
 
 Examples of crystals include *snowflakes*, *diamonds*, *metals* and *alloys* or *ceramic materials*. Some crystals, like *quartz*, *silicon*, are used in various applications, such as in electronics.
 
-![1](assets/images/afm.png)
+![DOI: 10.5772/37157](assets/images/afm.png)
