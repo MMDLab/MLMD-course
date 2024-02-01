@@ -32,3 +32,5 @@ Crystals can be classified into different categories, such as *insulators*, *met
 Crystals can have natural origins, forming through inorganic or organic processes, or they can be artificially created in laboratories.
 
 Examples of crystals include *snowflakes*, *diamonds*, *metals* and *alloys* or *ceramic materials*. Some crystals, like *quartz*, *silicon*, are used in various applications, such as in electronics.
+
+![1](assets/images/afm.png)
